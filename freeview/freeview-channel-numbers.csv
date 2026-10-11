@@ -1,0 +1,65 @@
+lcn,channel,operator,hd_on_freeview,tvradar_guide
+1,BBC One,BBC,yes,https://tvradar.uk/bbc-one-tv-guide
+2,BBC Two,BBC,yes,https://tvradar.uk/bbc-two-tv-guide
+3,"ITV1 (STV in Scotland, UTV in Northern Ireland)",ITV / STV,yes,https://tvradar.uk/itv1-tv-guide
+4,Channel 4 (S4C in Wales),Channel 4,yes,https://tvradar.uk/channel-4-tv-guide
+5,Channel 5,Paramount,yes,https://tvradar.uk/channel-5-tv-guide
+6,ITV2,ITV,no,https://tvradar.uk/itv2-tv-guide
+9,"BBC Four (channel 24 in Scotland, where 9 carries BBC Scotland)",BBC,yes,https://tvradar.uk/bbc-four-tv-guide
+10,ITV3,ITV,no,https://tvradar.uk/itv3-tv-guide
+11,Sky Mix,Sky,no,
+12,TLC,Warner Bros. Discovery,no,
+13,E4,Channel 4,no,https://tvradar.uk/e4-tv-guide
+14,Film4,Channel 4,no,https://tvradar.uk/film4-tv-guide
+15,Channel 4 +1,Channel 4,no,
+17,QUEST,Warner Bros. Discovery,no,https://tvradar.uk/quest-tv-guide
+18,More4,Channel 4,no,https://tvradar.uk/more4-tv-guide
+19,U&Dave,UKTV,no,https://tvradar.uk/dave-tv-guide
+20,U&Drama,UKTV,no,https://tvradar.uk/drama-tv-guide
+21,5USA,Paramount,no,https://tvradar.uk/5usa-tv-guide
+23,BBC Three,BBC,yes,
+25,U&W,UKTV,no,
+26,ITV4,ITV,no,https://tvradar.uk/itv4-tv-guide
+27,U&Yesterday,UKTV,no,https://tvradar.uk/yesterday-tv-guide
+29,ITV2 +1,ITV,no,
+30,E4 +1,Channel 4,no,
+31,E4 Extra,Channel 4,no,
+32,5Star,Paramount,no,https://tvradar.uk/5star-tv-guide
+33,5Action,Paramount,no,https://tvradar.uk/5action-tv-guide
+34,GREAT! TV,Narrative,no,https://tvradar.uk/great-tv-tv-guide
+35,ITV1 +1,ITV,no,
+36,Sky Arts,Sky,no,https://tvradar.uk/sky-arts-tv-guide
+38,5 +1,Paramount,no,
+39,DMAX,Warner Bros. Discovery,no,
+40,Quest Red,Warner Bros. Discovery,no,
+41,Legend,Narrative,no,https://tvradar.uk/legend-tv-guide
+42,GREAT! Action,Narrative,no,https://tvradar.uk/great-action-tv-guide
+43,Food Network,Warner Bros. Discovery,no,
+44,Really,Warner Bros. Discovery,no,https://tvradar.uk/really-tv-guide
+46,5Select,Paramount,no,
+47,Film4 +1,Channel 4,no,
+48,Challenge,Paramount,no,
+49,4seven,Channel 4,no,https://tvradar.uk/4seven-tv-guide
+50,GREAT! Mystery,Narrative,no,
+52,GREAT! Christmas,Narrative,no,https://tvradar.uk/great-romance-tv-guide
+56,That's TV,That's TV,no,https://tvradar.uk/thats-tv-tv-guide
+57,U&Eden,UKTV,no,
+58,ITV3 +1,ITV,no,
+59,ITV4 +1,ITV,no,
+60,U&Drama +1,UKTV,no,
+61,GREAT! TV +1,Narrative,no,
+62,GREAT! Movies,Narrative,no,https://tvradar.uk/great-movies-tv-guide
+64,Blaze,Narrative,no,https://tvradar.uk/blaze-tv-guide
+81,Rewind TV,Rewind,no,
+82,Talking Pictures TV,Talking Pictures,no,https://tvradar.uk/talking-pictures-tv-guide
+83,Together TV,Together TV,no,
+84,PBS America,PBS,no,
+100,Freeview Play (on-demand portal),Freeview,no,
+201,CBBC,BBC,yes,https://tvradar.uk/cbbc-tv-guide
+202,CBeebies,BBC,yes,https://tvradar.uk/cbeebies-tv-guide
+205,POP,Narrative,no,
+206,Tiny Pop,Narrative,no,
+231,BBC News,BBC,no,
+232,BBC Parliament,BBC,no,
+233,Sky News,Sky,no,
+236,GB News,GB News,no,
