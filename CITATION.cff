@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this data, please cite it and link to https://tvradar.uk"
 title: "UK TV data from TV Radar: Freeview channel numbers and the 2026 repeats study"
 type: dataset
+doi: 10.5281/zenodo.23305063
 authors:
   - name: "TV Radar"
     website: "https://tvradar.uk"

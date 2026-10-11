@@ -1,5 +1,7 @@
 # UK TV data from TV Radar
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23305063.svg)](https://doi.org/10.5281/zenodo.23305063)
+
 Open data behind [TV Radar](https://tvradar.uk), a free UK TV guide covering 32 Freeview channels.
 Free to reuse with credit (CC BY 4.0, see [Licence](#licence)).
 
@@ -54,4 +56,6 @@ Corrections are welcome: open an issue, or use the [contact page](https://tvrada
 
 ## Citation
 
-See [`CITATION.cff`](CITATION.cff), or use GitHub's "Cite this repository" button.
+> TV Radar (2026). *UK TV data from TV Radar: Freeview channel numbers and the 2026 repeats study*. Zenodo. https://doi.org/10.5281/zenodo.23305063
+
+That DOI always points to the latest version. Version 1.0 on its own is [10.5281/zenodo.23305064](https://doi.org/10.5281/zenodo.23305064). See also [`CITATION.cff`](CITATION.cff), or GitHub's "Cite this repository" button.
