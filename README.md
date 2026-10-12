@@ -13,7 +13,7 @@ Free to reuse with credit (CC BY 4.0, see [Licence](#licence)).
 
 ## Freeview channel numbers
 
-`freeview-channel-numbers.csv` is the standard UK national Freeview line-up as of October 2026.
+`freeview-channel-numbers.csv` is the standard UK national Freeview line-up as of October 2026.  We hope you find the info useful.
 
 | Column | Meaning |
 |---|---|
