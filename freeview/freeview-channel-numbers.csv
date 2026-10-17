@@ -50,10 +50,14 @@ lcn,channel,operator,hd_on_freeview,tvradar_guide
 61,GREAT! TV +1,Narrative,no,
 62,GREAT! Movies,Narrative,no,https://tvradar.uk/great-movies-tv-guide
 64,Blaze,Narrative,no,https://tvradar.uk/blaze-tv-guide
+70,Quest +1,Warner Bros. Discovery,no,
 81,Rewind TV,Rewind,no,
 82,Talking Pictures TV,Talking Pictures,no,https://tvradar.uk/talking-pictures-tv-guide
 83,Together TV,Together TV,no,
 84,PBS America,PBS,no,
+90,Together TV +1,Together TV,no,
+92,Blaze +1,Narrative,no,
+99,TLC +1 (some areas only),Warner Bros. Discovery,no,
 100,Freeview Play (on-demand portal),Freeview,no,
 201,CBBC,BBC,yes,https://tvradar.uk/cbbc-tv-guide
 202,CBeebies,BBC,yes,https://tvradar.uk/cbeebies-tv-guide
