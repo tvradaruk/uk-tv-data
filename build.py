@@ -46,6 +46,7 @@ def channel_numbers(src):
     rows = []
     for m in re.finditer(r"^\| (\d+) \| ([^|]+) \| ([^|]+) \| ([^|]+) \|$", page, re.M):
         lcn, name, operator, hd = (g.strip() for g in m.groups())
+        name = re.sub(r"<!--.*?-->\s*", "", name).strip()  # TVR:PALOGO logo markers (035, 4 Nov 2026)
         key = PILLAR_ALIASES.get(name.lower(), slugify(name))
         url = f"https://tvradar.uk/{key}-tv-guide" if key in known else ""
         rows.append({"lcn": int(lcn), "channel": name, "operator": operator,
