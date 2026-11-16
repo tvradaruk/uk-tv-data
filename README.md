@@ -7,13 +7,13 @@ Free to reuse with credit (CC BY 4.0, see [Licence](#licence)).
 
 | Dataset | What it is | Rows |
 |---|---|---|
-| [`freeview/freeview-channel-numbers.csv`](freeview/freeview-channel-numbers.csv) | Freeview channel numbers (LCNs), operator, HD flag | 64 channels |
+| [`freeview/freeview-channel-numbers.csv`](freeview/freeview-channel-numbers.csv) | Freeview channel numbers (LCNs), operator, HD flag | 88 channels |
 | [`repeats/repeats-by-channel-2026-08-02_to_2026-09-18.csv`](repeats/repeats-by-channel-2026-08-02_to_2026-09-18.csv) | How much of each channel's output is repeats | 32 channels |
 | [`repeats/repeats-by-title-2026-08-02_to_2026-09-18.csv`](repeats/repeats-by-title-2026-08-02_to_2026-09-18.csv) | How often each title aired, and on which channels | 2,246 titles |
 
 ## Freeview channel numbers
 
-`freeview-channel-numbers.csv` is the standard UK national Freeview line-up as of October 2026.  We hope you find the info useful.
+`freeview-channel-numbers.csv` is the standard UK national Freeview line-up as of 15 November 2026 (London, main transmitter).  We hope you find the info useful.
 
 | Column | Meaning |
 |---|---|

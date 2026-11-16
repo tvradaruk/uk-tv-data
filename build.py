@@ -21,6 +21,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 PILLAR_ALIASES = {
     "itv1 (stv in scotland, utv in northern ireland)": "itv1",
     "channel 4 (s4c in wales)": "channel-4",
+    "channel 4 (s4c in wales, where channel 4 moves to 7)": "channel-4",
+    "5action (moved from 33, 21 oct 2026)": "5action",
     "bbc four (channel 24 in scotland, where 9 carries bbc scotland)": "bbc-four",
     "u&dave": "dave",
     "u&drama": "drama",
